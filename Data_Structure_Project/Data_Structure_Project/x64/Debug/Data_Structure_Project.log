@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\clear\source\repos\Data_Structure_Project\Data_Structure_Project\PrioQ.h(26,51): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+C:\Users\clear\source\repos\Data_Structure_Project\Data_Structure_Project\Source.cpp(119): message : see reference to function template instantiation 'bool PrioQ<Events *>::enqueueAscending<Events*>(T,const double &)' being compiled
+          with
+          [
+              T=Events *
+          ]
+C:\Users\clear\source\repos\Data_Structure_Project\Data_Structure_Project\Source.cpp(119): message : see reference to function template instantiation 'bool PrioQ<Events *>::enqueueAscending<Events*>(T,const double &)' being compiled
+          with
+          [
+              T=Events *
+          ]
+  Data_Structure_Project.vcxproj -> C:\Users\clear\Source\Repos\Data_Structure_Project\x64\Debug\Data_Structure_Project.exe
